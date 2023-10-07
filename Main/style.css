@@ -1,0 +1,46 @@
+main{
+    background-color: gray;
+}
+h1{
+    color: green;
+    text-align:left;
+}
+h1, nav, footer{
+    font-family: 'Croissant One', serif;
+}
+
+nav {
+    
+    word-spacing: 10px;
+   
+}
+nav a{
+    background-color: wheat;
+}
+h1{
+    background-image: url(/Main/images/l.jpg);
+    background-size: cover;
+    width: 100rem;
+    height: 10rem;
+    background-position: center;
+    
+    }
+footer{
+    background-color: lightgray;
+}
+
+div{     display: flex;
+    justify-content: space-between;
+    }
+.kite{
+    display: flex;
+}
+.gap{
+  justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+}
+
+
